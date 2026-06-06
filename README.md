@@ -25,13 +25,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noob-X-rubait&theme=onedark&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 Repository & Contribution Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noob-X-rubait&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&icon_color=808080&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
