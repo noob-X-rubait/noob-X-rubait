@@ -13,6 +13,16 @@
 
 ---
 
+### 📊 System Metrics & Environment
+| Category | Specifications | Target Environment |
+| :--- | :--- | :--- |
+| **Main Platform** | Android Open Source Project (AOSP) | Device Linux Kernel (ARM64) |
+| **Core Utilities** | Git, Bash/Shell Scripting, Vim | Embedded System Optimization |
+| **Privilege Mgmt** | KernelSU / APatch / Magisk | Low-level Root Architecture |
+| **Toolchains** | Clang / LLVM Compilers | Performance & Build Tweaks |
+
+---
+
 ### 🛠️ Technical Competencies
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -25,12 +35,7 @@
 
 ---
 
-### 📊 Repository & Contribution Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noob-X-rubait&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&icon_color=808080&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob-X-rubait&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9A9&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</p>
-
+### 📉 Contribution History
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noob-X-rubait&theme=dark&hide_border=true&background=0D1117&title=A9A9A9&text=C9D1D9&sideNums=808080" alt="GitHub Streak" width="97%" />
 </p>
