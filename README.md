@@ -16,4 +16,4 @@ class RubaitIslam:
         self.utilities   = ["Git", "Bash/Shell Scripting", "Vim"]
 
 # (rubait@archlinux)-[~]
-$ echo "Deep diving into low-level systems... 🚀"
+$ echo "Deep diving into low-level systems..."
