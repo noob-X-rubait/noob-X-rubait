@@ -1,45 +1,19 @@
-# ── Rubait Islam Here ──
+```python
+# (rubait@archlinux)-[~]
+$ cat rubait.py # Low-level enthusiast btw :3
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=Exploring+the+Void...;Android+OS+Internals+%7C+System+Optimization;INTJ-T+%E2%80%A2+Continuous+Learning" alt="Typing SVG" />
-</p>
+class RubaitIslam:
+    def __init__(self):
+        self.name        = "Rubait Islam"
+        self.role        = "Android OS Internals Developer"
+        self.architecture = "INTJ-T (Driven by logic & strategy)"
+        
+    def __core_focus__(self):
+        self.platform    = "Android Open Source Project (AOSP)"
+        self.target_env  = "Device Linux Kernel (ARM64)"
+        self.privilege   = ["KernelSU", "APatch", "Magisk"]
+        self.toolchains  = "Clang / LLVM Compilers"
+        self.utilities   = ["Git", "Bash/Shell Scripting", "Vim"]
 
----
-
-### 🌌 Overview
-* **Architecture:** INTJ-T — Driven by logic, strategic structuring, and execution.
-* **Core Focus:** Deep dive into Android OS architectures, customized kernel builds, and low-level system optimization.
-* **Interests:** Advanced automation, terminal-based environments, and performance computing.
-
----
-
-### 📊 System Metrics & Environment
-| Category | Specifications | Target Environment |
-| :--- | :--- | :--- |
-| **Main Platform** | Android Open Source Project (AOSP) | Device Linux Kernel (ARM64) |
-| **Core Utilities** | Git, Bash/Shell Scripting, Vim | Embedded System Optimization |
-| **Privilege Mgmt** | KernelSU / APatch / Magisk | Low-level Root Architecture |
-| **Toolchains** | Clang / LLVM Compilers | Performance & Build Tweaks |
-
----
-
-### 🛠️ Technical Competencies
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
-
----
-
-### 📉 Contribution History
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noob-X-rubait&theme=dark&hide_border=true&background=0D1117&title=A9A9A9&text=C9D1D9&sideNums=808080" alt="GitHub Streak" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noob-X-rubait&theme=react-dark&bg_color=0D1117&hide_border=true&color=808080" alt="Activity Graph" width="97%" />
-</p>
+# (rubait@archlinux)-[~]
+$ echo "Deep diving into low-level systems... 🚀"
